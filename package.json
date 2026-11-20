@@ -1,0 +1,15 @@
+{
+  "name": "aternos-afk-bot",
+  "version": "1.0.0",
+  "description": "Aternos AFK bot paneli",
+  "main": "panel.js",
+  "scripts": {
+    "start": "node panel.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.20.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
